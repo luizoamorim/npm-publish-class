@@ -4,6 +4,3 @@
 # From .gitignore
 dist
 .env
-
-# Ignore nf3 legacy files
-legacy
